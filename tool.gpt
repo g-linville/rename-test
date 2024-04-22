@@ -1,0 +1,5 @@
+name: my_tool
+
+#!/usr/bin/env bash
+
+echo "This is my tool."
